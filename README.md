@@ -1,3 +1,9 @@
+# Preview
+![](assets/SS1.png)
+![](assets/SS2.png)
+
+---
+
 # AI-Powered Investment Forecasting Assistant
 
 An intelligent, multi-agent system built to help everyday users make smarter investment decisions. This project combines time series forecasting, LLM reasoning, and agentic system design into a single, user-friendly Streamlit app.
